@@ -1,2 +1,0 @@
-# Adivinhao
-Created with CodeSandbox
